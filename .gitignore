@@ -1,0 +1,10 @@
+.build/
+.swiftpm/
+.DS_Store
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+Package.resolved
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
